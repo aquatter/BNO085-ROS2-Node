@@ -29,3 +29,10 @@ As an extra: `config.txt` on ubuntu on the Pi is located in `/boot/firmware/conf
 - OS: Ubuntu 22.04.2 LTS
 - ROS: ROS2 Humble
 - Python: 3.10.6
+
+## Contributing
+Bug fixes and additions are welcome via pull requests (might be a nice opportunity for people to make there first contributions to open-source code that helps others!!) 
+
+I only ask that:
+1) The requests are somewhat clear on what the changes are for/why (basically I think it's fair that the changes are documented somewhere for both others and myself)
+2) Please be patient with me, as I get around to actually merging them in.
